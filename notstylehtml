@@ -1,0 +1,54 @@
+<!doctype html>
+<html>
+<head>
+    <title>My indexnew2</title>
+
+    <meta charset="utf-8" />
+    <meta http-equiv="Content-type" content="text/html; charset=utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    
+</head>
+
+<body>
+	<div>
+		<h1>Boating in general!</h1>
+				<iframe align="right" width="560" height="350" src="https://www.youtube.com/embed/s_iNjNPLv_k" frameborder="0" allowfullscreen></iframe>
+			<h2>A boat is a hole in which you pour money into.</h2>
+			<img src="http://www.boneyardboats.com/Archives/0046_Winter_2010/images/0046_Winter_2010_Boat_Faves/1957_CHRIS_CRAFT_DAY_CRUISER_28_4X6.jpg" />
+			
+			<p>Chris-Craft boats are very original. They are tailored with stylish wooden hulls and comfortable in either upper decks or lower decks.</p>
+			
+		<hr />
+		<h3>About Chris-Craft</h3>		
+		<ul>
+			<li>Chris-Craft started in 1861</li>
+			<li>It was started on Point du Chene, in Algonac, Michigan, a small town on the St. Clair River</li>
+			<li>It was here that Christopher Columbus Smith built his first boat in 1874 at age 13</li>
+		</ul>
+		<hr />
+		<h3>Top 3 Chris-Craft facts</h3>
+		<ol>
+			<li>Timeless beauty</li>
+			<li>Agile performance</li>
+			<li>Traditional craftmanship</li>
+		</ol>
+		<hr />
+		<table>
+		
+		<tr><th>Model Name</th><th>Length</th></tr>
+		<tr><td>Capri 21</td><td>21'</td></tr>
+		<tr><td>Corsair 36 Hard Top</td><td>36'</td></tr>
+		
+		
+		</table>
+		<hr />
+			<p> Want to know more about Chris-Craft?</p>
+	
+			<form action="http://www.chriscraft.com/">
+				<a href="http://www.chriscraft.com/"><input type="submit" value="Click me!" /></a>
+			</form>
+			
+		
+	</div>
+</body>
+</html>
